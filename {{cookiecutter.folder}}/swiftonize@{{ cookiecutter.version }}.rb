@@ -1,6 +1,6 @@
 
 
-class SwiftonizeAT02 < Formula
+class SwiftonizeAT{{ cookiecutter.name_version }} < Formula
   desc ""
   homepage ""
 
